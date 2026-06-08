@@ -2,11 +2,11 @@
 
 A collection of practical Python scripts demonstrating real-world automation, file handling, web interaction, APIs, speech processing, OCR, and multimedia utilities.
 
-## 📌 Overview
+# 📌 Overview
 
 This project showcases various advanced Python concepts and libraries commonly used in automation, data processing, AI applications, and productivity tools.
 
-## ✨ Features
+# ✨ Features
 
 - Logging and Debugging
 - File Path Management using Pathlib

@@ -38,7 +38,7 @@ advanced_python_codes.py
 README.md
 ```
 
-## 🎯 Learning Outcomes
+# 🎯 Learning Outcomes
 
 Through this project, you will learn:
 
@@ -50,7 +50,7 @@ Through this project, you will learn:
 - Extracting text from images using OCR
 - Automating multimedia tasks with Python
 
-## ▶️ Installation
+# ▶️ Installation
 
 Clone the repository:
 
@@ -64,7 +64,7 @@ Install dependencies:
 pip install requests gtts pyttsx3 openai-whisper pytesseract pillow yt-dlp
 ```
 
-## 🚀 How to Run
+# 🚀 How to Run
 
 ```bash
 python advanced_python_codes.py
